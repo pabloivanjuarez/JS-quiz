@@ -1,0 +1,23 @@
+* {
+    margin: 4vh;
+}
+
+h1 {
+    float: left;
+    font-size: 35px;
+    letter-spacing: 3px;
+}
+
+nav {
+    background-color: rgba(54, 240, 100, 0.281);
+    border: 2px dashed rgb(54, 228, 127)
+}
+
+.questiondiv {
+    background-color: rgb(175, 175, 209);
+
+}
+
+.questiondiv {
+    float: right;
+}
